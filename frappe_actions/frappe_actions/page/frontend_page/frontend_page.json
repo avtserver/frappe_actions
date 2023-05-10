@@ -1,0 +1,27 @@
+{
+ "content": null,
+ "creation": "2023-05-09 13:31:42.114345",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "fa-fa",
+ "idx": 0,
+ "modified": "2023-05-09 13:31:57.008712",
+ "modified_by": "Administrator",
+ "module": "Frappe Actions",
+ "name": "frontend-page",
+ "owner": "Administrator",
+ "page_name": "frontend-page",
+ "roles": [
+  {
+   "role": "All"
+  },
+  {
+   "role": "Administrator"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Frappe Actions Frontend "
+}
